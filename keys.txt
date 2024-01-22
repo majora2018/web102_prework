@@ -1,0 +1,32 @@
+Challenge 1 
+ooze
+dive
+trap
+pine
+oozedivetrappine
+
+Challenge 2
+6
+games-container
+.stats-card
+15
+6games-container.stats-card15
+
+Challenge 3
+11
+seafoam
+GAMES_JSON
+11seafoamGAMES_JSON
+
+Challenge 4
+19187
+800268
+Brain
+19187800268Brain
+
+Challenge 5
+7
+4
+flannel
+click
+74flannelclick
